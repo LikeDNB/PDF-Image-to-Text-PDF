@@ -1,1 +1,6 @@
+1) To start working with the program, download and install Tesseract on your computer for all users. Specify the path to the tesseract bin file.
+2) Download poppler-24.07.0 from GitHub and put it in the C:/ folder on your computer
+3) Place the PDF file whose text you want to recognize and put it in the main directory of the program
+
+The principle of the program is that the PDF file is converted into a PNG image and then converted into a new PDF with text. Example: using it on scanned books of 300 MB size turns the original file into a file of 3 megabytes
 
