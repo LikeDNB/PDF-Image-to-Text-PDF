@@ -1,4 +1,4 @@
-1) To start working with the program, download and install Tesseract on your computer for all users. Specify the path to the tesseract bin file.
+1) To start working with the program, download and install Tesseract on your computer for all users. Specify the path to the tesseract bin file. https://github.com/UB-Mannheim/tesseract/wiki
 2) Download poppler-24.07.0 from GitHub and put it in the C:/ folder on your computer
 3) Place the PDF file whose text you want to recognize and put it in the main directory of the program
 
